@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+img{
+    border: 5px solid white;
+    /* Hint: Set the image to have a width of 100% so it fills the div.  */
+    width: 100%;
+    margin-top: 100px;
+}
+/* You horizontally center a div by giving it a width of 50% and a margin-left of 25%. */
+#divmain{
+    width: 50%;
+    margin-left: 25%;
+}
+h1,p{
+    /* 2. The text should be white and background black. */
+    color: antiquewhite;
+    /* 4. The text should be center aligned. */
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
